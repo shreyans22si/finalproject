@@ -1,43 +1,38 @@
 {
-	"Head": "Bavisi And Company",
-	"secondHead": "Since 2009",
+	"Head": "Bavisi's Company",
+	"secondHead": "Since 1996",
 	"active": true,
 	"topDeals": [
         {
-            "name": "Hotties",
-			"price": "20",
-			"description": "buy one hottie and get one hottie",
+            "name": "Uranium ore",
+			"price": "$39.95",
+			"description": "While this small amount of uranium ore is pretty low on the radioactivity meter",
 			"fectures": [
-				"Enjoy with single",
-				"Greate Gift for cat lovers",
-				"Enjoy with double",
-				"designed to last"
-			],
-			"image": ""
-        },
-           {
-            "name": "",
-			"price": 11.62,
-			"description": " .",
-			"fectures": [
-				"",
-				"",
-				"",
-				""
-			],
-			"image": ""
-        },
-           {
-            "name": "",
-			"price":"" ,
-			"description": "",
-			"fectures": [
-				"",
-				"Imported",
-				"Tame the Bull"
+				"it’s pretty weird that you can buy it from the same site where you get your gym socks.",
+				"possessions to ditch, discover these "
 				
 			],
-			"image": ""
+			"image": "uranium-ore.jpg"
+        },
+           {
+            "name": "A cat butt tissue holder",
+			"price":"$34.94",
+			"description": "buy now on Amazon",
+			"fectures": [
+				"This seems like the nicest thing to be plucked from a cat’s rear since, well, ever",
+				" who doesn’t like to be stared down with peering, inquisitive eyes each time they need to blow their nose?"
+			],
+			"image": "71QugMJmYJL._SL1500_.jpg"
+        },
+           {
+            "name": "A bacon-scented mustache",
+			"price":"$4.07" ,
+			"description": "Now you can smell bacon all day in peace",
+			"fectures": [
+				"its scent hidden in an inconspicuous piece of facial hair",
+				"Sure beats rubbing pig fat on your upper lip."
+			],
+			"image": "51EsgLnGpNL.jpg"
         }
 	]
 }
