@@ -1,16 +1,16 @@
 {
-	"Head": "",
-	"secondHead": "",
+	"Head": "Bavisi And Company",
+	"secondHead": "Since 2009",
 	"active": true,
 	"topDeals": [
         {
-            "name": "",
-			"price": "",
-			"description": "",
+            "name": "Hotties",
+			"price": "20",
+			"description": "buy one hottie and get one hottie",
 			"fectures": [
-				"",
+				"Enjoy with single",
 				"Greate Gift for cat lovers",
-				"",
+				"Enjoy with double",
 				"designed to last"
 			],
 			"image": ""
