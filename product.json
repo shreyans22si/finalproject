@@ -1,0 +1,43 @@
+{
+	"Head": "",
+	"secondHead": "",
+	"active": true,
+	"topDeals": [
+        {
+            "name": "",
+			"price": "",
+			"description": "",
+			"fectures": [
+				"",
+				"Greate Gift for cat lovers",
+				"",
+				"designed to last"
+			],
+			"image": ""
+        },
+           {
+            "name": "",
+			"price": 11.62,
+			"description": " .",
+			"fectures": [
+				"",
+				"",
+				"",
+				""
+			],
+			"image": ""
+        },
+           {
+            "name": "",
+			"price":"" ,
+			"description": "",
+			"fectures": [
+				"",
+				"Imported",
+				"Tame the Bull"
+				
+			],
+			"image": ""
+        }
+	]
+}
